@@ -16,7 +16,7 @@ const Home = () => {
                     <span className="inline-block h-1 w-10 rounded bg-[#ceed67] mb-2 mt-4"></span>
                     <p className="leading-relaxed text-[#ceed67] font-mono font-bold">npx contact-ganesh</p>
                     <div className='pt-4 bg-[#333] text-center'>
-                        <Link  href="https://cvws.icloud-content.com/B/AQ3pYgfZX-1X-K3Qka2_YjVvjEvJAbbqrML8va04o72B0fxk488agMkQ/Resume.pdf?o=Am46EOAn6bKtnzVij5-gU6Zfp_gDH-CCnITZejK6AppZ&v=1&x=3&a=CAog2O9YeUTBi1-_LJlv29epw8PxS1K87ZftGU4DChdLa1YSbxC0v-L9zjEYtJy-_84xIgEAUgRvjEvJWgQagMkQaic4PxqZOgsGLMT8Ah_iidKNCCuFQRv-a_zYZyn5PsG-r0PLTWiI9xxyJ6zpbPbnBnGFm6E-HZic3blp9y7zldwzXYmuSQY6M1cfXr0J0RS67g&e=1704832503&fl=&r=4ae17a13-5fbb-4bf7-816a-0e718f709fc6-1&k=RcIyxBoifQj193c_3IBtuw&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=53&s=q5k7NbkImJhJ9VhZNX5t7iSq9KU&cd=i"><button className="m-2 py-2 px-4 font-mono duration-300 text-sm text-[#ceed67] border border-[#ceed67] rounded-full hover:text-[#333] hover:bg-[#ceed67] hover:scale-110">view resume</button></Link>
+                        <Link  href="https://www.icloud.com/iclouddrive/079KqEbbkVMQRnIRZCo5v1G7w#Resume"><button className="m-2 py-2 px-4 font-mono duration-300 text-sm text-[#ceed67] border border-[#ceed67] rounded-full hover:text-[#333] hover:bg-[#ceed67] hover:scale-110">view resume</button></Link>
                         <Link href="/Projects"><button className="m-2 py-2 px-4 font-mono duration-300 text-sm text-[#ceed67] border border-[#ceed67] rounded-full hover:text-[#333] hover:bg-[#ceed67] hover:scale-110">view projects</button></Link>
                     </div>
                 </div>
